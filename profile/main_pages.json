@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/ForgetPage",
+    "pages/DisplayPage",
+    "pages/HelpPage",
+    "pages/ShowPage",
+    "pages/ZhuanPage",
+    "pages/AuthorPage"
+  ]
+}
